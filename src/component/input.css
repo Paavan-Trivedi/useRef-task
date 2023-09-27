@@ -1,0 +1,40 @@
+.main{
+    /* width: 100vw;
+    height: 100vh;
+    */
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.box{
+    /* margin-left: 700px; */
+    text-align: center;
+}
+
+#heading{
+    margin-left: 700px;
+    display: flex;
+    margin-top: 250px;
+   
+}
+
+.inputmain{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-left: 620px;
+}
+
+.input{
+    height: 30px;
+    width: 300px;
+}
+
+.btn{
+    height: 30px;
+    width: 100px;
+    margin-left: 100px;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+}
